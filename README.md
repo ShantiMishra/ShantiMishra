@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanti Mishra</h1>
-<h3 align="center">Frontend Developer • Open Source Contributor • CSE Student</h3>
+<h3 align="center">Full Stack Developer (MERN) • Open Source Contributor • CSE Student</h3>
 
 ---
 
@@ -97,9 +97,5 @@ Git • GitHub • VS Code • Postman • Figma
 
 📧 Email: shantimishra2006@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/shanti-mishra-3b0a04330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
 ---
 
-## ⚡ Fun Fact
-
-I prefer building things from scratch rather than just following tutorials 🚀
