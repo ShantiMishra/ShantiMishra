@@ -80,22 +80,23 @@ Git • GitHub • VS Code • Postman • Figma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantiMishra&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ShantiMishra&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiMishra&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: shantimishra2006@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/shanti-mishra-3b0a04330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📧 Email: [shantimishra2006@gmail.com](mailto:shantimishra2006@gmail.com)  
+🔗 LinkedIn: [Shanti Mishra](https://linkedin.com/in/shanti-mishra-3b0a04330)
+
 ---
 
