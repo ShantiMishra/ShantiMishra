@@ -79,8 +79,9 @@ Git • GitHub • VS Code • Postman • Figma
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShantiMishra&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShantiMishra&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -88,7 +89,7 @@ Git • GitHub • VS Code • Postman • Figma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiMishra&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShantiMishra&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
